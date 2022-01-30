@@ -1,7 +1,7 @@
 # Whatsapp-Automation
 
 # Use Case:
-We can schedule Good Morning or Good night messages at a particular time to our loved ones. We can set reminders. Suppose at 12 o'clock you want to wish your friend happy birthday so schedule your messages and sleep peacefully. And it will sending bulk messages on whatsapp for any kind of promotion using CSV file.
+We can schedule Good Morning or Good night messages at a particular time to our loved ones. We can set reminders. Suppose at 12 o'clock you want to wish your friend happy birthday so schedule your messages and sleep peacefully. And we will sending bulk messages on whatsapp for any kind of promotion using CSV file.
 
 
 # Requirements:
