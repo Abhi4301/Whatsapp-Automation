@@ -1,9 +1,7 @@
 # Whatsapp-Automation
-This is GUI based Desktop Application created for sending scheduled messages on Whatsapp and this will read the names of contacts available in 'contacts.csv' file and send a particular msg to all.
 
 # Use Case:
 We can schedule Good Morning or Good night messages with a nice Picture at a particular time to our loved ones. We can set reminders. Suppose at 12 o'clock you want to wish your friend happy birthday so schedule your messages and sleep peacefully. And it will sending bulk messages on whatsapp for any kind of promotion using CSV file.
-
 
 
 # Requirements:
@@ -51,6 +49,10 @@ OR
 1. Wait till the whatsapp web page opens.
 2. Once the whatsapp web page is loaded completely, wait until send all messages. 
 
+# Important
+
+Put all files in a folder.
+
 # Screenshot
 
 ![main](https://user-images.githubusercontent.com/95033382/151716316-ee71e9e1-4aa8-4345-be96-4c0f48fce18c.PNG)
@@ -58,3 +60,7 @@ OR
 ![second](https://user-images.githubusercontent.com/95033382/151716324-d95cafd1-2a6f-44c9-9623-829040dd58f6.PNG)
 
 ![third](https://user-images.githubusercontent.com/95033382/151716332-ab63e74d-433f-4551-be60-1574997c31a9.PNG)
+
+# Author:
+
+# Abhishek Gupta
